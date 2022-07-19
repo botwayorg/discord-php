@@ -1,0 +1,21 @@
+{
+  "name": "{{.Author}}/{{.BotName}}",
+  "description": "My Awesome (PHP) Discord Bot",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "{{.BotName}}\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "{{.Author}}"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.2",
+    "team-reflex/discord-php": "^7.1",
+    "dallgoot/yaml": "^0.3.2"
+  }
+}
