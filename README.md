@@ -6,4 +6,4 @@
 
 - [**PHP**](https://www.php.net)
 - [**DiscordPHP**](https://github.com/discord-php/DiscordPHP)
-- [**BW-PHP**](https://github.com/botwayorg/discord-php/blob/main/src/botway.php)
+- [**BW-PHP**](https://github.com/abdfnx/botway/blob/main/packages/bw-php/main.php)
