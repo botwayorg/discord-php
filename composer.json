@@ -14,7 +14,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=7.2",
+    "php": ">=8.0",
     "team-reflex/discord-php": "^7.1",
     "dallgoot/yaml": "^0.3.2"
   }
