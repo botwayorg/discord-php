@@ -16,6 +16,6 @@
   "require": {
     "php": ">=8.0",
     "team-reflex/discord-php": "^7.1",
-    "dallgoot/yaml": "^0.3.2"
+    "dallgoot/yaml": "^0.9.0"
   }
 }
